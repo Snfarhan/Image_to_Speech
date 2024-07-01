@@ -1,0 +1,5 @@
+transformers
+ollama
+pyttsx3
+os
+tensorflow
